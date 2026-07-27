@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 5,
+  "cursor": 6,
   "log": [
     {
       "number": 37,
@@ -151,6 +151,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/4651749289270193297",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEImQ3ra8ouT27QE"
+    },
+    {
+      "number": 38,
+      "category": "EDUCATION & TIPS",
+      "title": "Cash Buyer vs. Realtor: What's the Real Difference for Austin Sellers?",
+      "sequence_index": 5,
+      "posted_at": "2026-07-27T16:22:12+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3834294710956671308",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEI-ZxMuJ7Lit6QE"
     }
   ]
 }
