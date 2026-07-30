@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 6,
+  "cursor": 7,
   "log": [
     {
       "number": 37,
@@ -161,6 +161,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3834294710956671308",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEI-ZxMuJ7Lit6QE"
+    },
+    {
+      "number": 28,
+      "category": "AUSTIN MARKET FOCUS",
+      "title": "We Buy Houses Across All Austin Neighborhoods - From East Austin to Westlake",
+      "sequence_index": 6,
+      "posted_at": "2026-07-30T18:59:07+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2200641888072261527",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEM323bTooaie2AE"
     }
   ]
 }
