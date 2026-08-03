@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 7,
+  "cursor": 8,
   "log": [
     {
       "number": 37,
@@ -171,6 +171,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2200641888072261527",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEM323bTooaie2AE"
+    },
+    {
+      "number": 22,
+      "category": "HOW IT WORKS",
+      "title": "How to Sell Your Austin House Fast for Cash: 3 Simple Steps with Smooth Closing",
+      "sequence_index": 7,
+      "posted_at": "2026-08-03T19:10:40+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/4761398705432569853",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJH5nNTNnbbWhQE"
     }
   ]
 }
