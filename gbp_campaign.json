@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 8,
+  "cursor": 9,
   "log": [
     {
       "number": 37,
@@ -181,6 +181,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/4761398705432569853",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJH5nNTNnbbWhQE"
+    },
+    {
+      "number": 42,
+      "category": "NEIGHBORHOOD SPOTLIGHT",
+      "title": "We Buy Houses in South Austin - Sell Fast for Cash in 78704, 78745, and Beyond",
+      "sequence_index": 8,
+      "posted_at": "2026-08-10T16:38:33+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/8341793491384676285",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEMy3mMGZooyF4gE"
     }
   ]
 }
