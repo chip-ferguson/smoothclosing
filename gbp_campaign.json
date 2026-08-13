@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 9,
+  "cursor": 10,
   "log": [
     {
       "number": 37,
@@ -191,6 +191,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/8341793491384676285",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEMy3mMGZooyF4gE"
+    },
+    {
+      "number": 52,
+      "category": "SPECIFIC SCENARIOS",
+      "title": "Moving to a Senior Living Community? Sell Your Austin Home Fast for Cash",
+      "sequence_index": 9,
+      "posted_at": "2026-08-13T17:35:42+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/7003078643606904706",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPDP1qDP3fD7dg"
     }
   ]
 }
