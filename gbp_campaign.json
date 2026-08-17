@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 10,
+  "cursor": 11,
   "log": [
     {
       "number": 37,
@@ -201,6 +201,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/7003078643606904706",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPDP1qDP3fD7dg"
+    },
+    {
+      "number": 31,
+      "category": "SOCIAL PROOF & TESTIMONIALS",
+      "title": "5-Star 'Chip Stood Tall and Behind His Offer' - Real Austin Seller Review",
+      "sequence_index": 10,
+      "posted_at": "2026-08-17T14:57:50+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/955676770960680302",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEIyk84Swmdr7Tg"
     }
   ]
 }
