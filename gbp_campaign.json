@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 11,
+  "cursor": 12,
   "log": [
     {
       "number": 37,
@@ -211,6 +211,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/955676770960680302",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEIyk84Swmdr7Tg"
+    },
+    {
+      "number": 39,
+      "category": "EDUCATION & TIPS",
+      "title": "What to Expect When You Sell Your Austin Home to a Cash Buyer",
+      "sequence_index": 11,
+      "posted_at": "2026-08-20T15:52:26+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2768488465862540930",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEOmwx4HD676EJw"
     }
   ]
 }
