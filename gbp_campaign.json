@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 12,
+  "cursor": 13,
   "log": [
     {
       "number": 37,
@@ -221,6 +221,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2768488465862540930",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEOmwx4HD676EJw"
+    },
+    {
+      "number": 56,
+      "category": "ABOUT SMOOTH CLOSING",
+      "title": "About Smooth Closing: Austin's Trusted Cash Home Buyer Since 2011",
+      "sequence_index": 12,
+      "posted_at": "2026-08-24T16:04:38+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/4524284629372601315",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJrk2f_ih6ywnwE"
     }
   ]
 }
