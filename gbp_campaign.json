@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 13,
+  "cursor": 14,
   "log": [
     {
       "number": 37,
@@ -231,6 +231,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/4524284629372601315",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJrk2f_ih6ywnwE"
+    },
+    {
+      "number": 13,
+      "category": "DIVORCE & LIFE CHANGES",
+      "title": "Selling a House During Divorce in Austin? We Make a Complicated Situation Simple",
+      "sequence_index": 13,
+      "posted_at": "2026-08-27T23:39:06+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5823517690855785859",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKENHVrNaWxJWJUQ"
     }
   ]
 }
