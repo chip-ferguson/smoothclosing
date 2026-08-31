@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 14,
+  "cursor": 15,
   "log": [
     {
       "number": 37,
@@ -241,6 +241,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5823517690855785859",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKENHVrNaWxJWJUQ"
+    },
+    {
+      "number": 18,
+      "category": "FINANCIAL HARDSHIP",
+      "title": "Lost Your Job in Austin? Sell Your House Fast for Cash and Get Back on Your Feet",
+      "sequence_index": 14,
+      "posted_at": "2026-08-31T19:53:18+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/1392186392316809535",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJO01p2to73BRA"
     }
   ]
 }
