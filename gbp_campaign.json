@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 15,
+  "cursor": 16,
   "log": [
     {
       "number": 37,
@@ -251,6 +251,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/1392186392316809535",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJO01p2to73BRA"
+    },
+    {
+      "number": 4,
+      "category": "FORECLOSURE",
+      "title": "Facing Foreclosure in Austin? Act Now - We Can Help You Sell Fast for Cash",
+      "sequence_index": 15,
+      "posted_at": "2026-09-03T17:36:15+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/7324418126402972829",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKENaKzuXm-pKOHQ"
     }
   ]
 }
