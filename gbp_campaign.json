@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 17,
+  "cursor": 18,
   "log": [
     {
       "number": 37,
@@ -271,6 +271,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/1192068402865203262",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEKX01PCRuZC51AE"
+    },
+    {
+      "number": 6,
+      "category": "TAX-DELINQUENT PROPERTIES",
+      "title": "Delinquent Property Taxes in Austin? Sell Fast and Clear the Debt",
+      "sequence_index": 17,
+      "posted_at": "2026-09-10T17:32:45+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/4709617612192709882",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEI29kJLr84jqRg"
     }
   ]
 }
