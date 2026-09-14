@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 18,
+  "cursor": 19,
   "log": [
     {
       "number": 37,
@@ -281,6 +281,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/4709617612192709882",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEI29kJLr84jqRg"
+    },
+    {
+      "number": 8,
+      "category": "VACANT LOTS & LAND",
+      "title": "We Buy Vacant Lots in Austin - Fast Cash Offers, No Listing Required",
+      "sequence_index": 18,
+      "posted_at": "2026-09-14T19:04:53+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3756927401474407840",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEMetzbSWp9X_cA"
     }
   ]
 }
