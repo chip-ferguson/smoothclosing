@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 19,
+  "cursor": 20,
   "log": [
     {
       "number": 37,
@@ -291,6 +291,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3756927401474407840",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEMetzbSWp9X_cA"
+    },
+    {
+      "number": 43,
+      "category": "NEIGHBORHOOD SPOTLIGHT",
+      "title": "Selling a House in North Austin? Get a Cash Offer Today",
+      "sequence_index": 19,
+      "posted_at": "2026-09-17T17:58:35+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/1791216426833785529",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPGQ14GGyYvkrgE"
     }
   ]
 }
