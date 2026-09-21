@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 20,
+  "cursor": 21,
   "log": [
     {
       "number": 37,
@@ -301,6 +301,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/1791216426833785529",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPGQ14GGyYvkrgE"
+    },
+    {
+      "number": 53,
+      "category": "SPECIFIC SCENARIOS",
+      "title": "Executor of an Estate in Austin? We Make Selling the Property Simple",
+      "sequence_index": 20,
+      "posted_at": "2026-09-21T19:07:19+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3921603138584412382",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKELbgo-2ww4K0QA"
     }
   ]
 }
