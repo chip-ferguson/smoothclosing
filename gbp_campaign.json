@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 21,
+  "cursor": 22,
   "log": [
     {
       "number": 37,
@@ -311,6 +311,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3921603138584412382",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKELbgo-2ww4K0QA"
+    },
+    {
+      "number": 40,
+      "category": "EDUCATION & TIPS",
+      "title": "Will You Get Full Market Value Selling for Cash? Here's the Honest Answer",
+      "sequence_index": 21,
+      "posted_at": "2026-09-24T18:17:41+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/772706681751925657",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEIWV4ZqE7airgwE"
     }
   ]
 }
