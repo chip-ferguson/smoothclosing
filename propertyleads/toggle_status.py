@@ -65,13 +65,20 @@ def main():
         browser = p.chromium.launch()
         page = browser.new_page(viewport={"width": 1600, "height": 900})
         try:
-            # Log in
+            # Log in (the page has several hidden forms, so stick to the one with the password box)
             page.goto(LOGIN_URL, wait_until="domcontentloaded")
-            page.fill("input[placeholder='Email']", email)
-            page.fill("input[type='password']", password)
-            page.check("input[type='checkbox']")
-            page.click("button[type='submit']")
+            form = page.locator("form:has(input[type='password'])").first
+            form.locator("input[placeholder='Email']").fill(email)
+            form.locator("input[type='password']").fill(password)
+            form.locator("input[type='checkbox']").check()
+            form.locator("button[type='submit']").click()
             page.wait_for_load_state("networkidle")
+
+            try:
+                page.locator("a", has_text="Status:").first.wait_for(timeout=30000)
+            except Exception:
+                visible = " ".join(page.locator("body").inner_text().split())[:500]
+                sys.exit(f"Login did not reach the dashboard. Page says: {visible}")
 
             before = read_status(page)
             print(f"Status before: {before}")
