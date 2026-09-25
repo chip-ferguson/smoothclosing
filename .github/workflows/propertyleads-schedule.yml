@@ -1,0 +1,57 @@
+name: PropertyLeads schedule
+
+# Stop at 7 PM Central, start at 10 AM Central, every day.
+# GitHub only uses UTC, so each time is listed twice (daylight time and
+# standard time). The "Pick action" step skips whichever one doesn't apply.
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 7 PM CDT (summer)
+    - cron: "0 1 * * *"   # 7 PM CST (winter)
+    - cron: "0 15 * * *"  # 10 AM CDT (summer)
+    - cron: "0 16 * * *"  # 10 AM CST (winter)
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+    inputs:
+      action:
+        description: "stop or start"
+        required: true
+        type: choice
+        options: [stop, start]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Pick action
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "action=${{ inputs.action }}" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          OFFSET=$(TZ=America/Chicago date +%z)   # -0500 summer, -0600 winter
+          case "${{ github.event.schedule }}|$OFFSET" in
+            "0 0 * * *|-0500"|"0 1 * * *|-0600")   echo "action=stop"  >> "$GITHUB_OUTPUT" ;;
+            "0 15 * * *|-0500"|"0 16 * * *|-0600") echo "action=start" >> "$GITHUB_OUTPUT" ;;
+            *) echo "action=skip" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - uses: actions/checkout@v4
+        if: steps.pick.outputs.action != 'skip'
+
+      - uses: actions/setup-python@v5
+        if: steps.pick.outputs.action != 'skip'
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        if: steps.pick.outputs.action != 'skip'
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Change status
+        if: steps.pick.outputs.action != 'skip'
+        env:
+          PL_EMAIL: ${{ secrets.PL_EMAIL }}
+          PL_PASSWORD: ${{ secrets.PL_PASSWORD }}
+        run: python propertyleads/toggle_status.py ${{ steps.pick.outputs.action }}
