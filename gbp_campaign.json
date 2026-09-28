@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 22,
+  "cursor": 23,
   "log": [
     {
       "number": 37,
@@ -321,6 +321,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/772706681751925657",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEIWV4ZqE7airgwE"
+    },
+    {
+      "number": 11,
+      "category": "DISTRESSED & AS-IS HOMES",
+      "title": "Ugly House? We Don't Care - Smooth Closing Buys As-Is in Austin",
+      "sequence_index": 22,
+      "posted_at": "2026-09-28T20:26:05+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5884471359284878293",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPmDt6-K7eif5wE"
     }
   ]
 }
