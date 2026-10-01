@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 23,
+  "cursor": 24,
   "log": [
     {
       "number": 37,
@@ -331,6 +331,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5884471359284878293",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPmDt6-K7eif5wE"
+    },
+    {
+      "number": 26,
+      "category": "WHY SMOOTH CLOSING",
+      "title": "Local, Family-Run, and Trusted Since 2011 - That's Smooth Closing",
+      "sequence_index": 23,
+      "posted_at": "2026-10-01T19:20:30+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/6782037152554194330",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEO-hlqmCv7qTPA"
     }
   ]
 }
