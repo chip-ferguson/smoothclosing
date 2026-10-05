@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 24,
+  "cursor": 25,
   "log": [
     {
       "number": 37,
@@ -341,6 +341,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/6782037152554194330",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEO-hlqmCv7qTPA"
+    },
+    {
+      "number": 33,
+      "category": "NO FEES & COMMISSIONS",
+      "title": "Skip the 6% Commission - Sell Your Austin Home Directly for Cash",
+      "sequence_index": 24,
+      "posted_at": "2026-10-05T21:23:39+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2721957384536826996",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEL3Kzufd3O-QowE"
     }
   ]
 }
