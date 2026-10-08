@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 25,
+  "cursor": 26,
   "log": [
     {
       "number": 37,
@@ -351,6 +351,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2721957384536826996",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEL3Kzufd3O-QowE"
+    },
+    {
+      "number": 49,
+      "category": "PROCESS COMPARISON",
+      "title": "Traditional Home Sale vs. Smooth Closing: A Side-by-Side Comparison",
+      "sequence_index": 25,
+      "posted_at": "2026-10-08T19:43:42+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/8701856261719312133",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKENfi5P3-hNPR5gE"
     }
   ]
 }
