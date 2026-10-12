@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 26,
+  "cursor": 27,
   "log": [
     {
       "number": 37,
@@ -361,6 +361,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/8701856261719312133",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKENfi5P3-hNPR5gE"
+    },
+    {
+      "number": 35,
+      "category": "SPEED & TIMELINE",
+      "title": "Close in 7 Days or on Your Schedule - You Choose With Smooth Closing",
+      "sequence_index": 26,
+      "posted_at": "2026-10-12T21:59:53+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/149123695175275046",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPvxgpqk65_n8QE"
     }
   ]
 }
