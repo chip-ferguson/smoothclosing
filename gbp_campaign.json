@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 27,
+  "cursor": 28,
   "log": [
     {
       "number": 37,
@@ -371,6 +371,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/149123695175275046",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEPvxgpqk65_n8QE"
+    },
+    {
+      "number": 20,
+      "category": "VACANT HOMES",
+      "title": "Vacant House in Austin Sitting Empty? Sell It Fast for Cash",
+      "sequence_index": 27,
+      "posted_at": "2026-10-15T18:04:44+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2986310988852823737",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKENnwq5KHp7K1zgE"
     }
   ]
 }
