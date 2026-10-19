@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 28,
+  "cursor": 29,
   "log": [
     {
       "number": 37,
@@ -381,6 +381,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2986310988852823737",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKENnwq5KHp7K1zgE"
+    },
+    {
+      "number": 44,
+      "category": "NEIGHBORHOOD SPOTLIGHT",
+      "title": "We Buy Houses in Pflugerville - Sell Your Home Fast for Cash",
+      "sequence_index": 28,
+      "posted_at": "2026-10-19T19:43:12+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/7723505476375260578",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEOas0PvWyp_iYw"
     }
   ]
 }
