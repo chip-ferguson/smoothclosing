@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 29,
+  "cursor": 30,
   "log": [
     {
       "number": 37,
@@ -391,6 +391,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/7723505476375260578",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEOas0PvWyp_iYw"
+    },
+    {
+      "number": 54,
+      "category": "SPECIFIC SCENARIOS",
+      "title": "House Stuck in Probate? Here's How Smooth Closing Can Help You Move Forward",
+      "sequence_index": 29,
+      "posted_at": "2026-10-22T18:22:48+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3860330759989367923",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJThwdHNmpHWFQ"
     }
   ]
 }
