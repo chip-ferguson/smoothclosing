@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 30,
+  "cursor": 31,
   "log": [
     {
       "number": 37,
@@ -401,6 +401,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/3860330759989367923",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKEJThwdHNmpHWFQ"
+    },
+    {
+      "number": 61,
+      "category": "EDUCATION & TIPS",
+      "title": "How Do Cash Home Buyers Determine Their Offer Price in Austin?",
+      "sequence_index": 30,
+      "posted_at": "2026-10-26T19:46:18+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/275013780149098300",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CIHM0ogKELfk0cXf1J-TSA"
     }
   ]
 }
