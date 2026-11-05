@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 33,
+  "cursor": 34,
   "log": [
     {
       "number": 37,
@@ -431,6 +431,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/1819739754663339609",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpmWUpGUngzRVgwQVFkZ3FyUmhWdTV3"
+    },
+    {
+      "number": 2,
+      "category": "PROBATE & INHERITED PROPERTIES",
+      "title": "Going Through Probate in Austin? Sell the House for Cash - We've Helped Hundreds",
+      "sequence_index": 33,
+      "posted_at": "2026-11-05T20:56:57+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2565670075414951087",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpWU0FvWjRMdTRFV0d3NHVUT0ZaXzFn"
     }
   ]
 }
