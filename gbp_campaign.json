@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 34,
+  "cursor": 35,
   "log": [
     {
       "number": 37,
@@ -441,6 +441,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2565670075414951087",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpWU0FvWjRMdTRFV0d3NHVUT0ZaXzFn"
+    },
+    {
+      "number": 62,
+      "category": "EDUCATION & TIPS",
+      "title": "Can You Sell a Home in Austin If You're Behind on Property Taxes? Yes - Here's How",
+      "sequence_index": 34,
+      "posted_at": "2026-11-09T23:17:50+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5365595022226902800",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpzYVltdlN5VWxfZ3NheWZIZklrekd3"
     }
   ]
 }
