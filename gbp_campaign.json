@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 35,
+  "cursor": 36,
   "log": [
     {
       "number": 37,
@@ -451,6 +451,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5365595022226902800",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpzYVltdlN5VWxfZ3NheWZIZklrekd3"
+    },
+    {
+      "number": 45,
+      "category": "NEIGHBORHOOD SPOTLIGHT",
+      "title": "We Buy Houses in Round Rock - Fast Cash Offers for Round Rock Homeowners",
+      "sequence_index": 35,
+      "posted_at": "2026-11-12T21:21:55+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/8953707599160179407",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpZYVdZVFhjUVBmZXFJQl9tUklPVTVR"
     }
   ]
 }
