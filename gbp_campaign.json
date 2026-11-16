@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 36,
+  "cursor": 37,
   "log": [
     {
       "number": 37,
@@ -461,6 +461,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/8953707599160179407",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpZYVdZVFhjUVBmZXFJQl9tUklPVTVR"
+    },
+    {
+      "number": 55,
+      "category": "SPECIFIC SCENARIOS",
+      "title": "Hoarder Home? Storm Damage? We Buy Every Type of Distressed Property in Austin",
+      "sequence_index": 36,
+      "posted_at": "2026-11-16T23:14:46+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2233925586525825069",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpBQ3hkdktJVEYwSnZyWjYxRk9jalB3"
     }
   ]
 }
