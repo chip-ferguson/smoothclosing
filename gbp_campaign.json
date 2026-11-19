@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 37,
+  "cursor": 38,
   "log": [
     {
       "number": 37,
@@ -471,6 +471,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/2233925586525825069",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpBQ3hkdktJVEYwSnZyWjYxRk9jalB3"
+    },
+    {
+      "number": 32,
+      "category": "SOCIAL PROOF & TESTIMONIALS",
+      "title": "'Very Fast Closing and Very Nice People' - Austin Seller Shares Their Experience",
+      "sequence_index": 37,
+      "posted_at": "2026-11-19T21:59:14+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5183511399829256",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpCYVExOXJadVQtZTh1QndvaWU2Zl9R"
     }
   ]
 }
