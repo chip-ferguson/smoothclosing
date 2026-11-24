@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 38,
+  "cursor": 39,
   "log": [
     {
       "number": 37,
@@ -481,6 +481,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/5183511399829256",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDpCYVExOXJadVQtZTh1QndvaWU2Zl9R"
+    },
+    {
+      "number": 12,
+      "category": "DISTRESSED & AS-IS HOMES",
+      "title": "Fire Damage, Foundation Problems, or Code Violations? We'll Still Buy Your Austin Home",
+      "sequence_index": 38,
+      "posted_at": "2026-11-24T01:30:16+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/7956907751351805689",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDp4VVV3Y2p0SVZFamJGdUxaSVRNVHN3"
     }
   ]
 }
