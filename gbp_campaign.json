@@ -100,7 +100,7 @@
     93,
     99
   ],
-  "cursor": 39,
+  "cursor": 40,
   "log": [
     {
       "number": 37,
@@ -491,6 +491,16 @@
       "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/7956907751351805689",
       "state": "PROCESSING",
       "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDp4VVV3Y2p0SVZFamJGdUxaSVRNVHN3"
+    },
+    {
+      "number": 27,
+      "category": "WHY SMOOTH CLOSING",
+      "title": "No Pressure. No Obligation. Just a Fair Cash Offer - Smooth Closing's Promise",
+      "sequence_index": 39,
+      "posted_at": "2026-11-26T22:51:14+00:00",
+      "name": "accounts/115922127971976283530/locations/3874931480407978345/localPosts/8298826525994686522",
+      "state": "PROCESSING",
+      "searchUrl": "https://local.google.com/place?id=5231154768306624045&use=posts&lpsid=CAIQACoeChxtc3BfaDplSFFlTF9LOFloT2dQN1BDYVB0STBB"
     }
   ]
 }
